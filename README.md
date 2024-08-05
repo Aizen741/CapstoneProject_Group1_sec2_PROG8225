@@ -2,7 +2,6 @@
 
 Welcome to **NetworqHub** - an exclusive student network platform designed to connect students, reduce scams, and create a vibrant online ecosystem.
 
-![NetworqHub Logo](src/assets/images/logo.png)
 
 ## Table of Contents
 
